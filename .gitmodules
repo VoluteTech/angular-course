@@ -1,3 +1,4 @@
 [submodule "bookshelf"]
 	path = bookshelf
 	url = https://github.com/VoluteTech/bookshelf
+  branch = master
